@@ -69,11 +69,11 @@ Hopefully you can get some use of it!
     ```json
     {
         "quotes": [
-            ["Stay Hungry. Stay Foolish.",  "Steve Jobs"],
-            ["Good Artists Copy, Great Artists  Steal.", "Pablo Picasso"],
-            ["Argue with idiots, and you    become an idiot.", "Paul Graham"],
-            ["Be yourself; everyone else is     already taken.", "Oscar Wilde"],
-            ["Simplicity is the ultimate    sophistication.", "Leonardo Da     Vinci"]
+            ["Stay Hungry. Stay Foolish.", "Steve Jobs"],
+            ["Good Artists Copy, Great Artists Steal.", "Pablo Picasso"],
+            ["Argue with idiots, and you become an idiot.", "Paul Graham"],
+            ["Be yourself; everyone else is already taken.", "Oscar Wilde"],
+            ["Simplicity is the ultimate sophistication.", "Leonardo Da Vinci"]
         ]
     }
     ```
@@ -84,12 +84,12 @@ Hopefully you can get some use of it!
     ```json
     {
         "quotes": [
-            ["Stay Hungry. Stay Foolish.",  "Steve Jobs"],
+            ["Stay Hungry. Stay Foolish.", "Steve Jobs"],
             ["Good Artists Copy, Great Artists  Steal.", "Pablo Picasso"],
-            ["Argue with idiots, and you    become an idiot.", "Paul Graham"],
-            ["Be yourself; everyone else is     already taken.", "Oscar Wilde"],
-            ["Simplicity is the ultimate    sophistication.", "Leonardo Da     Vinci"],
-            ["That's one small step for man,    one giant leap for mankind.",  "Neil Armstrong"]
+            ["Argue with idiots, and you become an idiot.", "Paul Graham"],
+            ["Be yourself; everyone else is already taken.", "Oscar Wilde"],
+            ["Simplicity is the ultimate sophistication.", "Leonardo Da Vinci"],
+            ["That's one small step for man, one giant leap for mankind.", "Neil Armstrong"]
         ]
     }
     ```
