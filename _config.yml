@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: Discord-Quote-Bot
 subtitle:
 description:
 author: Simo Aleksandrov
@@ -117,7 +117,7 @@ index_with_subtitle: false
 
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
-  home: /2018/08/03/Intro/
+  home: /
   #categories: /categories/
   about: ../
   #archives: /archives/
@@ -239,6 +239,14 @@ avatar: https://github.com/fr3fou.png
 
 
 # Table Of Contents in the Sidebar
+toc:
+  enable: false
+
+  # Automatically add list number to toc.
+  number: true
+
+  # If true, all words will placed on next lines if header width longer then sidebar width.
+  wrap: false
 
 
 # Creative Commons 4.0 International License.
@@ -293,7 +301,7 @@ scroll_to_more: true
 save_scroll: false
 
 # Automatically excerpt description in homepage as preamble text.
-excerpt_description: true
+excerpt_description: false
 
 # Automatically Excerpt. Not recommend.
 # Please use <!-- more --> in the post to control excerpt accurately.
