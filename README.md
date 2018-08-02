@@ -56,13 +56,12 @@ Hopefully you can get some use of it!
     *Please note that if you can't see the file extension `.json.example`, make sure you toggle the option to see extensions in your Windows folder settings!*
     ```json
     {
-    // add your token here
     "token":"",
     "prefix":">"
     }
     ```
 
-12. Change the prefix if you feel like the default one is not up to your liking! (Default one is `>` and the command is `quote`, so you would have to type in `>quote`)
+12. Change the prefix if you feel like the default one is not up to your liking! (Default one is `>` and the command is `quote`, so in order to toggle the command in Discord you would have to type in `>quote`)
 
 13. Edit quotes.json with quotes of your choice!
 
