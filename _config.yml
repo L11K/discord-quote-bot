@@ -117,7 +117,7 @@ index_with_subtitle: false
 
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
-  home: /
+  home: /2018/08/03/Intro/
   #categories: /categories/
   about: ../
   #archives: /archives/
@@ -239,14 +239,6 @@ avatar: https://github.com/fr3fou.png
 
 
 # Table Of Contents in the Sidebar
-toc:
-  enable: true
-
-  # Automatically add list number to toc.
-  number: true
-
-  # If true, all words will placed on next lines if header width longer then sidebar width.
-  wrap: false
 
 
 # Creative Commons 4.0 International License.
