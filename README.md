@@ -50,10 +50,17 @@ Hopefully you can get some use of it!
 
     ![png](https://i.imgur.com/AIkf8q0.png)
 
-11. Rename your config.json.example file to config.json and add your Discord bot token inside the quotes `"token":""`
+11. Rename your config.json.example file to config.json, open it using your favorite text editor and add your Discord bot token inside the quotes `"token":""`
 
     ![gif](https://i.imgur.com/dzINGrs.gif)
     *Please note that if you can't see the file extension `.json.example`, make sure you toggle the option to see extensions in your Windows folder settings!*
+    ```json
+    {
+    // add your token here
+    "token":"",
+    "prefix":">"
+    }
+    ```
 
 12. Change the prefix if you feel like the default one is not up to your liking! (Default one is `>` and the command is `quote`, so you would have to type in `>quote`)
 
