@@ -32,9 +32,7 @@ client.on('message', message => {
         const author = quotes[quoteIndex][1];
 
         // send the message in a neat format
-        message.channel.send('`🗨 ' +
-            quote +
-            '` - ' + author);
+        message.channel.send('`🗨 ' + quote + '` - ' + author);
     }
 
 });
