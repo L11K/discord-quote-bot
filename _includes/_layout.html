@@ -13,7 +13,13 @@
 <head>
   {% include _partials/head.html %}
   <title>{{ title }}</title>
-  {% include _third-party/analytics/index.html %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-119885780-2"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-119885780-2');
+  </script>
 </head>
 
 <body itemscope itemtype="http://schema.org/WebPage" lang="{{ page.lang | default: page.language | default: site.language }}">
